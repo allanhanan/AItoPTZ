@@ -4,6 +4,9 @@ AItoPTZ is a PTZ (Pan-Tilt-Zoom) camera controller app for Linux, with AI-based 
 
 This app is currently in early development (v0.1.0 beta) and is Linux-only. Contributions are welcome to expand features, add Windows support(coming soon), improve stability, or fix bugs. See the Contributing section below for details.
 
+<img width="600" height=auto alt="image" src="https://github.com/user-attachments/assets/b5ab6252-27c8-4c63-a28c-08d5e4a61eb3" />
+
+
 ## Features
 
 - **PTZ Control**: Uses v4l2_ctl for smooth pan, tilt, and zoom with easing and adaptive scaling based on camera hardware.
