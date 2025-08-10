@@ -113,8 +113,7 @@ Areas: Platform support, bug fixes, UI enhancements, AI improvements.
 
 ## License
 
-MIT License.
-
+GNU GENERAL PUBLIC LICENSE Version 3
 ## Version
 
 v0.1.0 beta
