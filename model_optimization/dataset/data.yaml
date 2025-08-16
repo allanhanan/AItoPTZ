@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['person']
+
+roboflow:
+  workspace: goutham-xwdv4
+  project: coco-dataset-limited--person-only-y9inp
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/goutham-xwdv4/coco-dataset-limited--person-only-y9inp/dataset/1
